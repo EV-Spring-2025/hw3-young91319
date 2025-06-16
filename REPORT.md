@@ -9,6 +9,8 @@ young91319@cmlab.csie.ntu.edu.tw
 |-|-|-|-|
 |[jelly](https://youtube.com/shorts/k9Oj12-BwoA?feature=share)|[plasticine](https://youtube.com/shorts/ZeHWRDi0fQQ?feature=share)|[sand](https://youtube.com/shorts/5JX7gF-tQcs?feature=share)|[metal](https://youtube.com/shorts/_ZBQdMK21P4?feature=share)|
 
+#### change parameter in hw3-young91319/PhysGaussian/config/ficus_config.json
+
 ## Ablation:
 #### baseline:  
     softening: 0.1  

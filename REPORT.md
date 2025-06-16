@@ -16,6 +16,7 @@ young91319@cmlab.csie.ntu.edu.tw
     n_grid: 50 
     substeps: 1e-4
 
+
 | Test ID | Parameter             | Value    | Expected                | Avg. PSNR (dB) |Video link|
 |---------|------------------------|----------|------------------------------------|-|----------------|
 | S1      | softening              | 0.01     | More aggressive collapse           | 41.96         |[softening 0.01](https://youtube.com/shorts/YwEANOVN21s?feature=share)
